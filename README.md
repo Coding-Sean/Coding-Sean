@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Coding-Sean
 
-![image](https://github.com/user-attachments/assets/1cb33927-3559-4ca1-bb42-d66db042a610)
 
+
+![himmel](https://github.com/user-attachments/assets/f557776c-85c4-483a-b7a8-0b64895bac55)
 
 
 - 👀 I’m interested in computer games.
