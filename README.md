@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning on how to be a data analyst.
 
 - 📫 How to reach me janseanlibera45@gmail.com
-- ⚡ Fun fact: I am almost 20 years old.
+
+  
 
 <!---
 Coding-Sean/Coding-Sean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
